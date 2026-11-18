@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Student Class Management
 
 Laravel REST API + React frontend for managing students and their class assignments.
@@ -131,3 +132,6 @@ See the `screenshots/` folder for views of the completed application.
 =======
 # student_class_management
 >>>>>>> 6fcbec6d9b7e6833cc371545d4a8ababe8458314
+=======
+# student_class_management
+>>>>>>> 08fd274faad9aa7cbe1313b2ed2b80b0818d6e1c
