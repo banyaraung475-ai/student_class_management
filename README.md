@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Class Management
 
 Laravel REST API + React frontend for managing students and their class assignments.
@@ -127,3 +128,6 @@ See the `screenshots/` folder for views of the completed application.
 
 - CORS is enabled for `/api/*` so the Vite frontend can call the Laravel API during local development.
 - Default seed data includes sample classes and students for quick testing.
+=======
+# student_class_management
+>>>>>>> 6fcbec6d9b7e6833cc371545d4a8ababe8458314
